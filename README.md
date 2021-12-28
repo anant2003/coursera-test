@@ -24,5 +24,6 @@ Mockup illustrations are present in the Assignment documents.
 
 1. [Module 2 Solution](https://anant2003.github.io/coursera-test/Module%202%20-%20solution/index.html)
 2. [Module 3 Solution](https://anant2003.github.io/coursera-test/Module-3-solution/)
+3. [Module 4 Solution](https://anant2003.github.io/coursera-test/Module-4-solution)
 
 
